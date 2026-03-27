@@ -1,6 +1,15 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" /> My name is Ayman Baodhah
 
-🌍 **Based in Saudi Arabia**
+🌍 **Based in Saudi Arabia** 🎓 **CIT Student at Dammam Community College**
+
+---
+
+### 💡 About Me
+I am a Computer & Information Technology student with a passion for learning how things work from the inside out. I love tinkering with hardware and building modern software solutions for both mobile and web.
+
+- 🚀 Currently specializing in **Mobile & Web Development**.
+- 🛠️ Interested in **IT Infrastructure**, **Linux**, and **Backend Systems**.
+- 🔍 Always exploring new technologies and exploring the "how" behind the "what."
 
 ---
 
@@ -11,18 +20,25 @@
   </a>
 </p>
 
+### 🌐 Web Development
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="40" height="40" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+</p>
+
 ### 🛠️ Languages & Markup
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" width="40" height="40" />
   </a>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" title="XML" width="40" height="40" />&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" title="XML" width="40" height="40" />
 </p>
 
 ### 🖥️ Applications
