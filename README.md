@@ -8,7 +8,7 @@
 I am a Computer & Information Technology student with a passion for learning how things work from the inside out. I love tinkering with hardware and building modern software solutions for both mobile and web.
 
 - 🚀 Currently specializing in **Mobile & Web Development**.
-- 🛠️ Interested in **IT Infrastructure**, **Linux**, and **Backend Systems**.
+- 🛠️ Interested in **IT Infrastructure**, **PC Hardware & Building**, and **Backend Systems**.**.
 - 🔍 Always exploring new technologies and exploring the "how" behind the "what."
 
 ---
