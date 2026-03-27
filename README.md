@@ -13,6 +13,13 @@ I am a Computer & Information Technology student with a passion for learning how
 
 ---
 
+### 🎨 Hobbies & Interests
+- 🛠️ **Hardware Tinkering:** I love taking things apart to see how they work and building custom PCs.
+- ⚡ **Exploring Tech:** Constantly testing new software, local AI models, and networking setups.
+- 🎮 **Gaming:** Keeping up with the latest in esports and competitive gaming.
+- 🐱 **Pet Care:** I'm also a big fan of cats!
+
+---
 ### 📱 Mobile Development
 <p align="left">
   <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
