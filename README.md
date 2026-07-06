@@ -1,11 +1,10 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" /> My name is Ayman Baodhah
 
-🌍 **Based in Saudi Arabia** 🎓 **CIT Student at Dammam Community College**
 
 ---
 
 ### 💡 About Me
-I am a Computer & Information Technology student with a passion for learning how things work from the inside out. I love tinkering with hardware and building modern software solutions for both mobile and web.
+I am passionate about software development, SQL Server, ERP systems, and web technologies. I enjoy building practical solutions, solving technical challenges, and continuously learning new technologies to improve my skills.
 
 - 🚀 Currently specializing in **Mobile & Web Development**.
 - 🛠️ Interested in **IT Infrastructure**, **PC Hardware & Building**, and **Backend Systems**.**.
